@@ -44,6 +44,4 @@ Hi there! I'm Haechan Yang! 👋
 ---
 
 ### 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=live2skull&show_icons=true&theme=vue)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=live2skull&margin-w=0&theme=gitdimme&row=1&column=5)
