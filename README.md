@@ -1,7 +1,7 @@
 [![Blog](https://img.shields.io/badge/Blog-303030?style=for-the-badge&logo=Notion)](https://lab.live2skull.kr)
 [![Portfolio](https://img.shields.io/badge/Portfolio(Resume)-303030?style=for-the-badge&logo=Notion)](https://haechanlab.notion.site/dc25ff938e194a779c15b6a6e606d729)
 
-[![mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:32187345@dankook.ac.kr)
+[![mail](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:haechan3173@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/haechanyang/)
 [![RocketPunch](https://img.shields.io/badge/🚀%20RocketPunch-512BD4?style=flat-square)](https://www.rocketpunch.com/@live2skull)
 
